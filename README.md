@@ -8,11 +8,20 @@
 #### Surveys and Reviews
 
 - [ ] [2020: A Survey on Contrastive Self-Supervised Learning](https://arxiv.org/abs/2011.00362)
-- [ ] [2020: Contrastive Representation Learning: A Framework and Review](https://arxiv.org/abs/2010.05113)
 
 
 #### 2021
-
+- [ ] [2021: VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf)
+- [ ] [2021: Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/pdf/2103.03230.pdf)
+- [ ] [2021: Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)
+- [ ] [2021: Adversarial Attacks are Reversible with Natural Supervision](https://arxiv.org/abs/2103.14222)
+- [ ] [2021: Self-Paced Contrastive Learning for Semi-supervised Medical Image Segmentation with Meta-labels](https://arxiv.org/abs/2107.13741v1)
+- [ ] [2021: Understanding Cognitive Fatigue from fMRI Scans with Self-supervised Learning](https://arxiv.org/abs/2106.15009)
+- [ ] [2021: A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning
+](https://arxiv.org/abs/2104.14558)
+- [ ] [2021: Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation](https://arxiv.org/abs/2106.06801)
+- [ ] [2021: Contrastive Learning with Stronger Augmentations](https://arxiv.org/abs/2104.07713v1)
+- [ ] [2021: Dual Contrastive Learning for Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2104.07689v1)
 - [ ] [2021: How Well Do Self-Supervised Models Transfer?](https://arxiv.org/abs/2011.13377)
 - [ ] [2021: Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/abs/2103.01988)
 - [ ] [2021: VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples](https://arxiv.org/abs/2103.05905v2)
@@ -20,6 +29,7 @@
 
 #### 2020
 
+- [ ] [2020: Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/abs/2006.07529)
 - [ ] [2020: Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning](https://arxiv.org/abs/2012.11552)
 - [ ] [2020: Social NCE: Contrastive Learning of Socially-aware Motion Representations](https://arxiv.org/abs/2012.11717)
 - [ ] [2020: CASTing Your Model: Learning to Localize Improves Self-Supervised Representations](https://arxiv.org/pdf/2012.04630.pdf)
@@ -54,6 +64,7 @@
 
 #### 2019
 
+- [ ] [2019: Unsupervised Scene Adaptation with Memory Regularization in vivo](https://arxiv.org/abs/1912.11164)
 - [ ] [2019: Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
 - [ ] [2019: Transferable Contrastive Network for Generalized Zero-Shot Learning](https://arxiv.org/abs/1908.05832v1)
 - [ ] [2019: MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
@@ -80,9 +91,3 @@
 - [ ] [2017: Unsupervised learning  of  visual  representations  by  solving  jigsawpuzzles](https://arxiv.org/abs/1603.09246)
 - [ ] [2015: Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
 - [ ] [2010: Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf)
-
-
-#### REFERENCES
-
-- [Blog: Contrastive Self-Supervised Learning](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
-- [Github: Awesome-Contrastive-Learning](https://github.com/HobbitLong/PyContrast/blob/master/AWESOME_CONTRASTIVE_LEARNING.md)
